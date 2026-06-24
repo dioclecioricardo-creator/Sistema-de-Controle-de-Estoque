@@ -14,6 +14,6 @@ Gerenciar produtos, fornecedores e movimentações de estoque através de uma ap
 - Kanban
 
 ## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+- Dioclecio Ricardo da Cunha Martins
+- Daniel Petrônio de Souza Filho
+- João Vitor de Melo Costa
