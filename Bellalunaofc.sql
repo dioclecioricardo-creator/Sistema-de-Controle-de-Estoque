@@ -3,9 +3,9 @@ CREATE DATABASE Bellaluna;
 USE Bellaluna;
 
 CREATE TABLE Funcionarios (
-    ID_Funcionario INT PRIMARY KEY,
-    Nome VARCHAR(100) NOT NULL,
-    Cargo VARCHAR(50)
+    id_funcionario INT PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    cargo VARCHAR(50) NOT NULL
 );
 
 
